@@ -1,0 +1,68 @@
+{
+    "header": {
+      "type": "header",
+      "logo": {
+        "url": "path/to/logo.png",
+        "alt": "Website logo"
+      },
+      "navigation": [
+        {"text": "Home", "href": "/"},
+        {"text": "About", "href": "/about"},
+        {"text": "Contact", "href": "/contact"}
+      ],
+      "cta": {
+        "text": "Get started",
+        "href": "https://example.com/get-started"
+      }
+    },
+    "hero": {
+      "type": "hero",
+      "image": {
+        "url": "path/to/hero.jpg",
+        "alt": "Hero image"
+      },
+      "text": "Sample website design"
+    },
+    "sections": [
+      {
+        "type": "card",
+        "heading": "Company description (3-4 lines)",
+        "content": "We are a motivated and experienced team of top performers who are committed to providing a mutually respectful work environment...",
+        "buttons": [
+          {
+            "text": "copy to clipboard",
+            "action": "copy"
+          }
+        ]
+      },
+      {
+        "type": "card",
+        "heading": "Node.js developer job description (4-5 lines)",
+        "content": "We are an elite IT solutions company, looking for an experienced Node.js developer...",
+        "buttons": [
+          {
+            "text": "Request interviews directly",
+            "href": "https://example.com/request-interviews"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "type": "footer",
+      "copyright": "© 2023 Example Company",
+      "social": [
+        {
+          "type": "facebook",
+          "href": "https://facebook.com/example"
+        },
+        {
+          "type": "twitter",
+          "href": "https://twitter.com/example"
+        },
+        {
+          "type": "linkedin",
+          "href": "https://linkedin.com/example"
+        }
+      ]
+    }
+  }
