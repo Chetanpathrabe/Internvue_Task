@@ -38,7 +38,3 @@ The script will create the following Excel files:
 ### Bonus Assignment
 
 The Bonus Assignment is completed and included in the bonus.json file.
-
-### License
-
-MIT
